@@ -1,4 +1,4 @@
-Q7. Indian Premier League IPL Cricket Matches are organized for a few Days. The problem is to prepare a timetable from Day 1 to Day n, where n depends on the number of teams
+Q3. Indian Premier League IPL Cricket Matches are organized for a few Days. The problem is to prepare a timetable from Day 1 to Day n, where n depends on the number of teams
 participating. 
 
 * Set A represents the Names of Teams participating. 

@@ -1,4 +1,4 @@
-Q13. We want to estimate the cost of painting a property. Interior wall painting cost is Rs.18 per square feet and exterior wall painting cost is Rs.12 per square feet. 
+Q2. We want to estimate the cost of painting a property. Interior wall painting cost is Rs.18 per square feet and exterior wall painting cost is Rs.12 per square feet. 
 
 Take input as-
 

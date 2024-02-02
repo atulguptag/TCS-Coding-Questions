@@ -1,4 +1,4 @@
-Q10. There is a bucket of water capacity of X litres, which is supposed to fill with a mug of Y millilitres water capacity. Say for example X=100 and Y=10 then, the bucket will get full of a minimum of 8 mugs (>80% and less than 100%>). 
+Q3. There is a bucket of water capacity of X litres, which is supposed to fill with a mug of Y millilitres water capacity. Say for example X=100 and Y=10 then, the bucket will get full of a minimum of 8 mugs (>80% and less than 100%>). 
 
 Bucket filling is to be stopped once more than 80% of bucket capacity is filled. The amount of water taken at a time in a mug is not fixed as it can be any value less than or equal to y. Notify to stop once the bucket is full. 
 
